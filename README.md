@@ -1,4 +1,4 @@
-# Estilo de texto
+# Estilo de Texto
 Projeto para exemplificar o estilo de texto utilizando HTML e CSS.
 
 ## Resultado Final
